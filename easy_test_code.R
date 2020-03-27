@@ -13,3 +13,6 @@ Lasso_model <- SLOPE(X, Y, lambda = lambda)
 
 plot(SLOPE_model)
 plot(Lasso_model)
+
+cor(X$length, X$diameter) #0.988651
+cor(X$length, X$weight_shell) #0.9064018
