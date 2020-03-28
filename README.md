@@ -1,4 +1,4 @@
-# SLOPEsolversTESTS
+# SLOPEsolversTESTS GSoC
 
 Tests description
 
